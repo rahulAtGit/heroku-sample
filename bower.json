@@ -1,0 +1,20 @@
+{
+  "name": "heroku-sample",
+  "homepage": "https://github.com/rahulAtGit/heroku-sample",
+  "authors": [
+    "rahul.rvce.is@gmail.com"
+  ],
+  "description": "Just to host",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
